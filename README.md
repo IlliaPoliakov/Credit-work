@@ -12,3 +12,5 @@
 ##### Simple Lab work for usage of String type objects in Java.
 ## Lab_4
 ##### I needed to parse all Java commented text using either regular expression or DFA.
+## Streams 
+##### The task was to learn how to use iterable objects in Java( via tool known as stream). You could sort elements, filter, group by some field and count them.
